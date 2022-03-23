@@ -1,6 +1,10 @@
 # Amazon_Vine_Analysis
+
+![](https://github.com/lightbright832/Amazon_Vine_Analysis/blob/main/amazon%20vine.jpg)
+
 ## Overview of the analysis
 ### Purpose
+
 
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions:
